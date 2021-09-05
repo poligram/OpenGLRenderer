@@ -1,2 +1,4 @@
 # OpenGLRenderer
-Simple OpenGL renderer
+A Simple OpenGL renderer
+
+Will require GLFW, GLAD & GLM
