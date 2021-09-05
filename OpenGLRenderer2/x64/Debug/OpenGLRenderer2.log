@@ -1,0 +1,10 @@
+﻿  Application.cpp
+C:\Users\user\source\repos\OpenGLRenderer2\OpenGLRenderer2\src\Application.cpp(41,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\OpenGLRenderer2\OpenGLRenderer2\src\Application.cpp(41,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\OpenGLRenderer2\OpenGLRenderer2\src\Application.cpp(86,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\OpenGLRenderer2\OpenGLRenderer2\src\Application.cpp(87,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\OpenGLRenderer2\OpenGLRenderer2\src\Application.cpp(88,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\OpenGLRenderer2\OpenGLRenderer2\src\Application.cpp(89,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\OpenGLRenderer2\OpenGLRenderer2\src\Application.cpp(170,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\OpenGLRenderer2\OpenGLRenderer2\src\Application.cpp(200,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGLRenderer2.vcxproj -> C:\Users\user\source\repos\OpenGLRenderer2\x64\Debug\OpenGLRenderer2.exe
