@@ -179,7 +179,7 @@ void Application::startGameLoop()
 		shader->useProgram();
 
 		glm::mat4 modelMatrix = glm::mat4(1.f);
-		modelMatrix = glm::rotate(modelMatrix, glm::radians(55.f), glm::vec3(1.f, 0.f, 0.f));
+		//modelMatrix = glm::rotate(modelMatrix, glm::radians(55.f), glm::vec3(1.f, 0.f, 0.f));
 
 		camera.update();
 
